@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import 'shoelace-css/dist/shoelace.css';
 import './App.css';
 
 import FilterProducts from "./containers/FilterProducts";
